@@ -1,7 +1,7 @@
 from tkinter import *
 
 root = Tk()
-root.title("Yang's calculator")
+root.title("system thinker calculator")
 root.geometry("300x300")
 
 # btn1 = Button(root, text="버튼1")
